@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Sistema_de_Control_de_Acceso_Basado_en_Roles:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sistema_de_Control_de_Acceso_Basado_en_Roles_jar</output-path>
+    <root id="archive" name="Sistema_de_Control_de_Acceso_Basado_en_Roles.jar">
+      <element id="module-output" name="Sistema_de_Control_de_Acceso_Basado_en_Roles" />
+    </root>
+  </artifact>
+</component>
