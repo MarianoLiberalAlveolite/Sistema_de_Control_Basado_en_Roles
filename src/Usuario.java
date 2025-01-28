@@ -24,12 +24,20 @@ public class Usuario {
      */
     public String getNombre() {return nombre;}
 
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
     /**
      * Obtiene el rol del usuario.
      *
      * @return El rol del usuario.
      */
     public String getRol() {return rol;}
+
+    public void setRol(String rol) {
+        this.rol = rol;
+    }
 
     /**
      * Devuelve una representación en formato String del usuario.
